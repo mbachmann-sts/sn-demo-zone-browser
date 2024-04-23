@@ -11,7 +11,7 @@ function App() {
           automaticReconnect
           config={{
             backendScheme: "ws",
-            backendHost: "stagenet.int",
+            backendHost: "10.240.1.51",
             backendPort: 31000,
             backendPath: "/ws",
           }}
